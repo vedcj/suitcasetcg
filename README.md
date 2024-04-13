@@ -1,5 +1,8 @@
 # Suitcase
 
+# Download link
+https://github.com/vedcj/suitcasetcg/releases/latest
+
 # Features :
 
 - [x] Check prices from the ff. sources:
