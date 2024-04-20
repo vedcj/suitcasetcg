@@ -1,8 +1,5 @@
 # Suitcase
 
-# Download link
-https://github.com/vedcj/suitcasetcg/releases/latest
-
 # Features :
 - Check prices from the ff. sources:
   - Yuyu-tei
@@ -10,9 +7,11 @@ https://github.com/vedcj/suitcasetcg/releases/latest
   - TCG Corner
 - Price conversion to local price.
 - Batch search for card prices.
+- Search for English name and display it.
 - View Card Info from search results.
+- Full card image display.
 
-# TODO
+# TODO :
 - View Card Info from search results.
   - Proper caching of data.
     - Monster race.
@@ -20,11 +19,10 @@ https://github.com/vedcj/suitcasetcg/releases/latest
   - Display sets on card info dialog.
   - Display Link arrows on card info dialog.
 - Add cards to local inventory.
-- Search for English name.
 - Small World resolver.
 - Rulings and FAQs from ``db.ygorganization.com``.
 - User login.
 - Display inventory cards to others for selling/trading.
 - Trade calculator.
-- Price recommendation from Yuyutei.
+- Price recommendation from Default market.
 - Duel companion app (Check LP, Roll dice, Timer, Counters).
