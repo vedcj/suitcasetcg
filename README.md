@@ -15,10 +15,17 @@
 - View Card Info from search results.
   - Proper caching of data.
     - Monster race.
-    - Link arrows.
   - Display sets on card info dialog.
-  - Display Link arrows on card info dialog.
 - Add cards to local inventory.
+  - Create new table to save ff info:
+    - Card Setcode
+    - Quantity
+    - Rarity (Enum)
+    - Price bought
+    - Price sold (optional)
+    - Date bought
+    - Date sold (optional)
+    - Date added (non-changeable)
 - Small World resolver.
 - Rulings and FAQs from ``db.ygorganization.com``.
 - User login.
