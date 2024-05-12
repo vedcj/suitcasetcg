@@ -1,4 +1,5 @@
-# Suitcase
+# Suitcase TCG
+## version 0.10.1
 
 # Features :
 - Check prices from the ff. sources:
@@ -16,16 +17,15 @@
   - Proper caching of data.
     - Monster race.
   - Display sets on card info dialog.
-- Add cards to local inventory.
-  - Create new table to save ff info:
-    - Card Setcode
-    - Quantity
-    - Rarity (Enum)
-    - Price bought
-    - Price sold (optional)
-    - Date bought
-    - Date sold (optional)
-    - Date added (non-changeable)
+- Inventory:
+  - Display list of card items after clicking folder.
+  - Allow editing of Folder info.
+    - Name change.
+    - Delete folder.
+    - Change background image.
+  - Add option on Search result items to add to folder.
+    - Add button on Search result item.
+    - Display all existing folder on selection.
 - Small World resolver.
 - Rulings and FAQs from ``db.ygorganization.com``.
 - User login.
