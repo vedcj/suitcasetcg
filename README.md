@@ -1,5 +1,5 @@
 # Suitcase TCG
-## version 0.10.1
+## version 0.10.2
 
 # Features :
 - Check prices from the ff. sources:
