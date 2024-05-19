@@ -1,5 +1,6 @@
 # Suitcase TCG
-## version 0.10.4
+## version 0.10.5
+## Project started: Feb. 8, 2024
 
 # Features :
 - Check prices from the ff. sources:
@@ -11,6 +12,7 @@
 - Search for English name and display it.
 - View Card Info from search results.
 - Full card image display.
+- Auto-update of App.
 
 # TODO :
 - View Card Info from search results.
