@@ -1,0 +1,6 @@
+# Privacy Policy for Binder+
+
+This app does not collect any data that allows the developer to develop a digital fingerprint of the users.
+
+This app only saves data of search query inputs in finding cards' details.
+The data is then removed after a certain limit is reached to minimize storage usage on the users' device.
